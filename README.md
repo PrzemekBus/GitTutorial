@@ -1,2 +1,1 @@
-# GitTutorial
-Git tutorial project
+# Paragon z warzywniaka
